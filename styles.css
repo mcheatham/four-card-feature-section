@@ -1,0 +1,84 @@
+body {
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(299, 6%, 66%);
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+h3 {
+  color: hsl(234, 12%, 34%);
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+.feature {
+  background-color: white;
+  border-radius: 5px;
+  border-top: 4px solid;
+  box-shadow: 0 5px 5px hsl(0, 0%, 86%);
+  height: 200px;
+  padding: 20px;
+  position: absolute;
+  width: 325px;
+}
+
+.feature img {
+  position: relative;
+  left: 240px;
+}
+
+.feature-cards {
+  height: 575px;
+  margin: 0 auto;
+  position: relative;
+  width: 1170px;
+}
+
+.first-heading {
+  color: hsl(234, 12%, 34%);
+  font-weight: 200;
+  margin-bottom: 0;
+}
+
+.heading {
+  margin: 100px auto 50px;
+  text-align: center;
+  width: 40%
+}
+
+.second-heading {
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.supervisor-feature {
+  border-color: hsl(180, 62%, 55%);
+  top: 125px;
+}
+
+.team-builder-feature {
+  border-color: hsl(0, 78%, 62%);
+  left: 400px;
+}
+
+.karma-feature {
+  border-color: hsl(34, 97%, 64%);
+  left: 400px;
+  top: 275px;
+}
+
+.calculator-feature {
+  border-color: hsl(212, 86%, 64%);
+  left: 800px;
+  top: 125px;
+}
+
